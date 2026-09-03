@@ -6,7 +6,11 @@
     <language>de</language>
     <description>KataHaifisch Archiv Sets</description>
     <itunes:image href="https://i1.sndcdn.com/avatars-000332857007-z11j49-original.jpg"/>
-    
+        <itunes:owner>
+      <itunes:name>KataHaifisch</itunes:name>
+      <itunes:email>info@katahaifisch.de</itunes:email>
+    </itunes:owner>
+
     <item>
       <title><![CDATA[Premiere: Saive - Facing The Sky (Kunterweiß Remix)[trndmsk]]]></title>
       <description><![CDATA[Come on a journey with @saivemusic and @kunterweiss.
